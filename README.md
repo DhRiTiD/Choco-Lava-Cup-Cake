@@ -1,4 +1,4 @@
-# Waffel
+# Waffle
 A perfect recipe for a perfect timing!! 
 
 #### What's it about?
