@@ -1,7 +1,8 @@
 # WHAT DO YOU NEED?
 
 #### Dry Ingridients
-~ All Purpose Flour/Maida   -   1Cup(150gms)                                                                                                                                        
+~ All Purpose Flour/Maida   -   1Cup(150gms)
+
 ~ White Sugar(Powerdered)   -   1/2 Cup(80-90gms)
 
 ~ Baking Powder             -   1 tsp(teaspoon)
