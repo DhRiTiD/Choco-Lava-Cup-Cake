@@ -44,7 +44,7 @@ Items that you can use in your creatiive dessert:
 
 ~ Belgian Chocolate-Fudge Sauce
 
-####Make it Spicy?
+#### Make it Spicy?
 For waffle without Chocolate flvaour
 
 ~ Corn bread waffles with chili, cheddar cheese and sour cream.
