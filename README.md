@@ -6,4 +6,4 @@ A waffle is a dish made from leavened batter or dough that is cooked between two
 
 Let's Cook!
 
-# DhRItID ♥
+# DhRiTID ♥
