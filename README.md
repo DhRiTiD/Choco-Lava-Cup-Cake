@@ -5,55 +5,49 @@ A perfect recipe for a perfect timing!!
 A waffle is a dish made from leavened batter or dough that is cooked between two plates that are patterned to give a characteristic size, shape, and surface impression. There are many variations based on the type of waffle iron and recipe used. Waffles are eaten throughout the world, particularly in Belgium, which has over a dozen regional varieties. Waffles may be made fresh or simply heated after having been commercially cooked and frozen
 
 Let's Cook!
-.
-.
-.
-.
-.
-WHAT DO YOU NEED?
-Dry Ingridients
-~ All Purpose Flour/Maida - 1Cup(150gms)
 
-~ White Sugar(Powerdered) - 1/2 Cup(80-90gms)
+# WHAT DO YOU NEED?
 
-~ Baking Powder - 1 tsp(teaspoon)
+#### Dry Ingridients
+~ All Purpose Flour/Maida   -   1Cup(150gms)
 
-~ Baking Soda - 1/2 tsp
+~ White Sugar(Powerdered)   -   1/2 Cup(80-90gms)
 
-~ Cornflour - 1 tbs(tableSpoon)
+~ Baking Powder             -   1 tsp(teaspoon)
 
-~ Cocoa Powder - 1 tbs
+~ Baking Soda               -   1/2 tsp
 
-Wet/Liquid Ingridents
-~ Curd/Dahi - 3 tbs
+~ Cornflour                 -   1 tbs(tableSpoon)
 
-~ Butter(Melted) - 2tbs
+~ Cocoa Powder              -   1 tbs  
 
-~ Vanilla Essence - 1tsp
+#### Wet/Liquid Ingridents
+~ Curd/Dahi                 -   3 tbs
 
-~ Water - around 100ml
-.
-.
-.
-.
-.
-Steps to Victory
+~ Butter(Melted)            -   2tbs
+
+~ Vanilla Essence           -   1tsp
+
+~ Water                     -   around 100ml
+
+#### Steps to Victory
 ~ Take a big bowl and start by keeping a sieve at the top of the bowl, as to cover it partially. Add 1 cup of All purpose flour and all other dry ingriedents one by one, keeping the measures proper.
 
 ~ Cocoa Powder is optional.
 
-~ Now, keeping the previous bowl aside and take another small bowl.
+~ Now, keeping the previous bowl aside and take another small bowl. 
 
-~ Add 3 tbs of curd with 2 tbs of melted butter along with 1 tsp of vanilla Essence.
+~ Add 3 tbs of curd with 2 tbs of melted butter along with 1 tsp of vanilla Essence. 
 
-~ Mix the items slowly but smoothly.
+~ Mix the items slowly but smoothly. 
 
 ~ Make sure that all the wet ingridients mix altogether properly.
 
 ~ Lightly pour the wet mixture to the bigger bowl containing dry ingridients.
 
-Dont waste time in this step, or the batter will form lumps.
-Simultaneously, add water to it, make sure you keep whisking the batter to avoid lumps.
+##### Dont waste time in this step, or the batter will form lumps.
+
+Simultaneously, add water to it, make sure you keep whisking the batter to avoid lumps. 
 
 ~ The batter will be formed as light brown cake batter.
 
@@ -71,7 +65,7 @@ Simultaneously, add water to it, make sure you keep whisking the batter to avoid
 
 ~ Yay! Your dish is ready to be served!
 
-SERVING
+### SERVING
 There are tons of ways of serving the dessert! You can just add ice-cream with chocolate glaze and sprinkles or you can be more creative in choices..
 
 Items that you can use in your creatiive dessert:
@@ -82,7 +76,7 @@ Items that you can use in your creatiive dessert:
 
 ~ Belgian Chocolate-Fudge Sauce
 
-Make it Spicy?
+#### Make it Spicy?
 For waffle without Chocolate flvor
 
 ~ Corn bread waffles with chili, cheddar cheese and sour cream.
